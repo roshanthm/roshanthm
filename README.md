@@ -2,7 +2,7 @@
 
 <div align="center" style="padding: 20px; background-color: #f5f5f5; border-radius: 15px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
 
-<h1 style="color: #FF5733;">👋 <span style="color:#007BFF;">Hi There, I’m <b>Roshan Thomas</b></span></h1>
+<h1 style="color: #FF5733;">👋 <span style="color:#007BFF;">Hi There, I’m <b>Roshan</b></span></h1>
 
 <p>
   <font size="6" color="#007BFF"><b>@Roshanthomas</b></font>
@@ -62,14 +62,14 @@
 <!-- Snake Animation -->
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/roshanthm/roshanthm/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/PavanAnish/PavanAnish/blob/output/github-snake-dark.svg)
 
 ---
 <!-- Contribution Graph -->
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshanthomas&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshanthm&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
 ---
