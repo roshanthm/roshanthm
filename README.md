@@ -62,7 +62,7 @@
 <!-- Snake Animation -->
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Roshanthomas/roshanthomas/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/roshanthm/roshanthm/blob/output/github-snake-dark.svg)
 
 ---
 <!-- Contribution Graph -->
