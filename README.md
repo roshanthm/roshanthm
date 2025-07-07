@@ -62,14 +62,14 @@
 <!-- Snake Animation -->
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/PavanAnish/PavanAnish/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Roshanthomas/roshanthomas/blob/output/github-snake-dark.svg)
 
 ---
 <!-- Contribution Graph -->
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavanAnish&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshanthomas&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
 ---
