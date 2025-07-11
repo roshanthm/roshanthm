@@ -37,11 +37,11 @@
 <!-- GitHub Stats -->
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PavanAnish&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshanthm&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PavanAnish&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Roshanthm&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PavanAnish&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roshanthm&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="180" alt="languages graph"  />
 
 </div>
 
@@ -57,14 +57,13 @@
 
 ---
 
-
-
 <!-- Snake Animation -->
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/PavanAnish/PavanAnish/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Roshanthm/Roshanthm/blob/output/github-snake-dark.svg)
 
 ---
+
 <!-- Contribution Graph -->
 ## 📊 Contribution Graph
 
@@ -73,18 +72,17 @@
 </p>
 
 ---
+
 <!-- Connect Section -->
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="mailto:pavananish47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pavan-v-anish-7ba7b1320/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://pavananish.github.io/Portfolio1/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <!-- Visitors Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PavanAnish&style=for-the-badge&color=blue" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=Roshanthm&style=for-the-badge&color=blue" alt="visitors"/>
 </p>
-
-
