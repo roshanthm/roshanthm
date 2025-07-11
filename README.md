@@ -22,7 +22,7 @@
 
 <!-- Profile Website -->
 <p>
-  <a href="https://pavananish.github.io/Portfolio1/"
+  <a href="https://your-portfolio-link.com"
      style="color: #007BFF; text-decoration: none; font-weight: bold;"
      onmouseover="this.style.color='#FF5733'" 
      onmouseout="this.style.color='#007BFF'">
@@ -39,7 +39,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=Roshanthm&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Roshanthm&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Roshanthm&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roshanthm&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="180" alt="languages graph"  />
 
