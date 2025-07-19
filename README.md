@@ -37,11 +37,11 @@
 <!-- GitHub Stats -->
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshanthm&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=roshanthm&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats"/>
 
-  <img src="https://streak-stats.demolab.com?user=Roshanthm&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=roshanthm&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roshanthm&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanthm&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="180" alt="languages graph"  />
 
 </div>
 
