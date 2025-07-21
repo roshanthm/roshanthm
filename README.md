@@ -92,5 +92,6 @@
 
 <!-- Visitors Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Roshanthm&style=for-the-badge&color=blue" alt="visitors"/>
+  <img src="https://img.shields.io/badge/Visitors-400-blue?style=for-the-badge" alt="Static Visitors"/>
 </p>
+
