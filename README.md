@@ -90,3 +90,6 @@
   <img src="https://img.shields.io/badge/Visitors-400-blue?style=for-the-badge" alt="Static Visitors"/>
 </p>
 
+## 🎧 My Spotify Playlist  
+
+[![Spotify Playlist](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5epw3tpD5YuIl6nsHUYX5p)
