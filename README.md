@@ -85,6 +85,9 @@
   <a href="https://wa.me/918304877312">
   <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="WhatsApp"/>
 </a>
+<a href="https://instagram.com/roshan_thm">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram"/>
+</a>
 
 </p>
 
