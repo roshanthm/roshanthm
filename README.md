@@ -79,9 +79,10 @@
   <a href="https://www.linkedin.com/in/roshan-thomas-">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+ <a href="https://roshanthm.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
   <a href="https://wa.me/918304877312">
   <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="WhatsApp"/>
 </a>
