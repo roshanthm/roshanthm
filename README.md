@@ -41,8 +41,7 @@
     src="https://github-readme-stats.vercel.app/api?username=roshanthm&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&hide_border=true" 
     alt="GitHub Stats" 
   />
-
-  <img 
+<img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanthm&layout=compact&langs_count=5&theme=codeSTACKr&hide_border=true" 
     alt="Top Languages" 
   />
