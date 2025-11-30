@@ -36,17 +36,11 @@
 ---
 
 <!-- GitHub Stats -->
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=roshanthm&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-<img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanthm&layout=compact&langs_count=5&theme=codeSTACKr&hide_border=true" 
-    alt="Top Languages" 
-  />
-</div>
+# 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api?username=roshanthm&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=roshanthm&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanthm&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
