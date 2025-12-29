@@ -33,16 +33,16 @@
 
 </div>
 
----
 
 <!-- GitHub Stats -->
+
+
+
+
+
+
 # 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshanthm&show_icons=true&theme=midnight-purple&hide_border=true" alt="Roshan Thomas GitHub Stats">
-</div>
-
-
+<img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=roshanthm&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" >
 
 ![](https://github-readme-stats.vercel.app/api?username=roshanthm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=roshanthm&theme=dark&hide_border=false)<br/>
