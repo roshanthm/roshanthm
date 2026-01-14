@@ -2,7 +2,7 @@
 
 <div align="center" style="padding: 20px; background-color: #f5f5f5; border-radius: 15px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
 
-<h1 style="color: #FF5733;">👋 <span style="color:#007BFF;">Hi There, I’m <b>Roshan</b></span></h1>
+<h1 style="color: #FF5733;"> <span style="color:#007BFF;">Hi There, I’m <b>Roshan</b></span></h1>
 
 <p>
   <font size="6" color="#007BFF"><b>@Roshanthomas</b></font>
@@ -54,12 +54,12 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- About Me Section -->
-## 📌 About Me
+##  About Me
 
-- 🎓 B.Tech CSE AI Student  
-- 🛠️ Passionate about **Backend Development, AI & Full-Stack Web**  
-- 🌱 Continuously learning **AI, ML, Data Science & Cloud**  
-- 🎯 Always curious to build new things, solve problems and collaborate.
+- B.Tech CSE AI Student  
+- Passionate about **Backend Development, AI & Full-Stack Web**  
+- Continuously learning **AI, ML, Data Science & Cloud**  
+- Always curious to build new things, solve problems and collaborate.
 
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
