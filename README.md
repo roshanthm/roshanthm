@@ -5,7 +5,7 @@
 <h1 style="color: #FF5733;"> <span style="color:#007BFF;">Hi There, I’m <b>Roshan</b></span></h1>
 
 <p>
-  <font size="6" color="#007BFF"><b>@Roshanthomas</b></font>
+  <font size="6" color="#007BFF"><b>@roshanthm</b></font>
 </p>
 
 <!-- Typing Animation -->
