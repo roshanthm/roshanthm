@@ -22,7 +22,7 @@
 
 <!-- Profile Website -->
 <p>
-  <a href="portfoilio-updated-iota.vercel.app"
+  <a href="https://portfoilio-updated-iota.vercel.app"
      style="color: #007BFF; text-decoration: none; font-weight: bold;"
      onmouseover="this.style.color='#FF5733'" 
      onmouseout="this.style.color='#007BFF'" 
